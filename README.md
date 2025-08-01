@@ -29,3 +29,5 @@ Power Query – for data transformation and cleaning.
 
 DAX (Data Analysis Expressions) – for calculated columns and KPIs.
 
+6.Screenshot:
+https://github.com/tejalhinge23/Amazon-Prime-Video-Dashboard/blob/main/Screenshot%202025-08-01%20084815.png
